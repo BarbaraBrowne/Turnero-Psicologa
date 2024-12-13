@@ -1,6 +1,4 @@
 
-¡Genial! El archivo README es una excelente manera de explicar el propósito y cómo usar tu proyecto. Aquí tienes una estructura básica que puedes usar y personalizar según lo que desees compartir:
-
 Turnero Psicóloga
 Este proyecto es una aplicación de gestión de turnos para una psicóloga que trabaja exclusivamente en modalidad online. La aplicación permite a los usuarios reservar, cancelar y recibir notificaciones de sus turnos. Además, la psicóloga puede gestionar los turnos, hacer observaciones y administrar la disponibilidad.
 
